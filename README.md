@@ -16,7 +16,7 @@ For this repository, please refer to the following files:
 | :--------------------- | :---------------------------------------------------------------------------------|
 | APP Files              |                                                                                   |
 | `api.py`               | Flask web server application definition and instantiation.                        |
-| `model.py              | Contains helper functions to separate model specific code from our API definition.|
+| `model.py`             | Contains helper functions to separate model specific code from our API definition.|
 | utils                  | Simple script to simulate a POST request sent to our API.                         |
 | `utils/request.py`     | Simple script to simulate a POST request sent to our API.                         | 
 | `utils/train_model.py` | Used to train the simple model used for demonstration of the API's functioning.   |
