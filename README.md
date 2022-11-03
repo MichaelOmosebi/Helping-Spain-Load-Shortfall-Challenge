@@ -39,7 +39,7 @@ The project spanned a period of one month, with each phase execution as below:
 |:--------------------|
 |Do **NOT** *clone* this repository. Instead follow the instructions in this section to *fork* the repo.|
 
-![Fork Repo](assets/imgs/fork_repo.png)  
+![Fork Repo](assets/imgs/Fork_repo.png)  
 
 To fork the repo, simply ensure that you are logged into your GitHub account, and then click on the 'fork' button at the top of this page as indicated within the figure above.
 
