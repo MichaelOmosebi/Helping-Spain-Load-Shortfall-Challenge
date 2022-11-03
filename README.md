@@ -4,11 +4,11 @@
 
 
 ## 1) Summary of the Project
-The aim of this project is to determine how people perceive climate change and whether or not they believe it is a real threat, by analysing tweets scraped from tweeter. 
+Spain experiences an energy(load shortfall) crisis, and considers an investment in Renewable energy.
 
-In addition, a Streamlit App was created. This App processes a statement/tweet and gives a sentiment classification output based on the four classifications defined in the notebook.
+For this investment to be worth it the government needs to be able to predict load shortfall as a function of time, and other demographic/climatic features in order to direct asset deployment to renewable energy generation.
 
-The business value motivation of the project would be an improvement to companies' market research efforts in gauging how their product/service may be received.
+This repository shows how spain energy shortfall data(historical) can be used to accurately predict load shortfall in the future.
 
 For this repository, please refer to the following files:
 
